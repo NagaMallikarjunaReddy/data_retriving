@@ -21,4 +21,5 @@ urlpatterns = [
     path('retrive/',retrive,name='retrive'),
     path('web/',web,name='web'),
     path('Access/',Access,name='Access'),
+    path('update/',update,name='update'),
 ]
